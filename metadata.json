@@ -1,0 +1,6 @@
+{
+  "name": "Autofill Extension Clone",
+  "description": "A Chrome extension clone for automatically filling form fields based on URL and CSS selector rules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
